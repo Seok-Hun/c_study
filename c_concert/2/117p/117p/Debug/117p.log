@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\2\117p\117p\소스.c(11): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\2\117p\117p\소스.c(10): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\2\117p\117p\소스.c(10): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 0개가 제공되었습니다.
+  c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\2\117p\117p\소스.c(10): note: 누락된 variadic 인수 1이(가) 서식 문자열 '%e'에 필요합니다.
+  117p.vcxproj -> C:\Users\hamer\Desktop\C언어 스터디\c언어 콘서트\2\117p\Debug\117p.exe

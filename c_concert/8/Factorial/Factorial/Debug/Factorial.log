@@ -1,0 +1,5 @@
+﻿  fac.c
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\8\factorial\factorial\fac.c(15): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\8\factorial\factorial\fac.c(19): warning C4142: 'factorial': 형식이 재정의되었지만 심각하지는 않습니다.
+  c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\8\factorial\factorial\fac.c(4): note: 'factorial' 선언을 참조하십시오.
+  Factorial.vcxproj -> C:\Users\hamer\Desktop\C언어 스터디\c언어 콘서트\8\Factorial\Debug\Factorial.exe

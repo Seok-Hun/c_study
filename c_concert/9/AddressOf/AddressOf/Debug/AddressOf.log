@@ -1,0 +1,6 @@
+﻿  address_of.c
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\9\addressof\addressof\address_of.c(14): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\9\addressof\addressof\address_of.c(10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\9\addressof\addressof\address_of.c(11): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\users\hamer\desktop\c언어 스터디\c언어 콘서트\9\addressof\addressof\address_of.c(12): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+  AddressOf.vcxproj -> C:\Users\hamer\Desktop\C언어 스터디\c언어 콘서트\9\AddressOf\Debug\AddressOf.exe

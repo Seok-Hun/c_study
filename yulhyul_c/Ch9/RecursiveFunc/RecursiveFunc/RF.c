@@ -1,0 +1,17 @@
+//2018-11-13 Àç±ÍÇÔ¼ö
+
+#include <stdio.h>
+
+void Recursive(int num)
+{
+	if (num <= 0) //Àç±ÍÀÇ Å»ÃâÁ¶°Ç
+		return;
+	printf("Recursive call! %d \n", num);
+	Recursive(num - 1);
+}
+
+int main()
+{
+	Recursive(3);
+	system("PAUSE");
+}
